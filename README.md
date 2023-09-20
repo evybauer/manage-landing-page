@@ -1,4 +1,4 @@
-# 🔶 Manage Landing Page
+# 🔶 Manage - Landing Page
 
 A simple landing page template designed for managing and promoting a product or service.
 
