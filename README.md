@@ -2,7 +2,7 @@
 
 A simple landing page template designed for managing and promoting a product or service.
 
-<img width="1177" alt="Screenshot 2023-09-25 at 4 46 27 PM" src="https://github.com/evybauer/manage-landing-page/assets/48938870/8a44f8db-7e54-467b-8ea6-b1c96e77154f">
+<img width="864" alt="ManageLandingPage" src="https://github.com/evybauer/manage-landing-page/assets/48938870/85a4d14f-5781-4770-8a6e-48e29046c99f">
 
 ## 🛠️ Tech Stack
 
